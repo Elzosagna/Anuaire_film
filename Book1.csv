@@ -2,3 +2,6 @@ id_film,nom_film,Description,date_sortie,duree,langue_sortie,genre,realisateur
 1,Divergent,film avec des fractions,2014-03-19,139 minutes,anglaise,roman science-fiction dystopie,Neil Burger
 2,Ant Man,homme arraignee,2015-06-29,117 minutes,anglaise,Super-heros,Peyton reed
 3,Jurasic world,film avec des dinosaures,2018-06-06,128 minutes,anglaise,action aventures science fiction,juan antonio bayona
+4	12 Years A Slave,Un jeune homme noir est enlevé et vendu comme esclave,2013-08-30,2h 13mn,Anglais,Drame Historique,Steve McQueen
+5	Glory Road,En 1966 à l'ouest du Texas Don Haskins se fait l'entraîneur d'une équipe de football noir-américaine Celle-ci vaincra notamment une équipe adverse du Kentucky,2006-01-13,118 minutes,Anglais,Sport,James Gartner
+6	Freedom writers,Une jeune enseignante incite sa classe d’élèves à risque à apprendre la tolérance à s’appliquer et à poursuivre des études après le secondaire,2007-01-05,123 minutes,Anglais,Comédie Dramatique,Richard LaGravenese
